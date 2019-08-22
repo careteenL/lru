@@ -1,0 +1,6 @@
+# [lru](https://github.com/careteenL/lru)
+[![](https://img.shields.io/badge/Powered%20by-lru-brightgreen.svg)](https://github.com/careteenL/lru)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/careteenL/lru/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/careteenL/lru.svg?branch=master)](https://travis-ci.org/careteenL/lru)
+[![npm](https://img.shields.io/badge/npm-0.1.3-orange.svg)](https://www.npmjs.com/package/@careteen/lru)
+[![NPM downloads](http://img.shields.io/npm/dm/@careteen/lru.svg?style=flat-square)](http://www.npmtrends.com/@careteen/lru)
